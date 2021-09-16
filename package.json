@@ -1,0 +1,20 @@
+{
+  "name": "sass",
+  "version": "1.0.0",
+  "description": "site de repas en ligne",
+  "main": "index.js",
+  "scripts": {
+    "test": "sass --watch ./sass/main.scss:./public/css/style.css",
+    "prefix": "postcss ./public/css/style.css--use autoprefixer -d ./public/css/prefixed/ "
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AudreyKukfisz/KukfiszAudrey_01092021.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AudreyKukfisz/KukfiszAudrey_01092021/issues"
+  },
+  "homepage": "https://github.com/AudreyKukfisz/KukfiszAudrey_01092021#readme"
+}
