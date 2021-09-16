@@ -1,0 +1,43 @@
+h1, h6 {
+  font-family: "Shrikhand", sans-serif;
+}
+
+body, html {
+  font-family: "Roboto", sans-serif;
+}
+
+/*# sourceMappingURL=style.css.map */
+body{
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+h1, h2, h3{
+  font-size: 100%;
+  font-weight: normal;
+  margin: 0;
+}
+
+p{
+  margin: 0;
+}
+
+html{
+  box-sizing: border-box;
+}
+
+
+button, input, select, textarea {
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+  color: #000;
+}
+
+img{
+  height: auto;
+  max-width: 100%;
+}
